@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@animaliads/ani-button": "next",
-    "@animaliads/css-tokens": "^1.0.0-dev.1",
+    "@animaliads/ani-button": "dev",
+    "@animaliads/animalia-brand": "dev",
+    "@animaliads/css-tokens": "dev",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
